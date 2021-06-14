@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pinaattori
-- 👀 I’m interested in everything C# and .NET.
-- 🌱 I’m currently learning C++ and game engine development
+- 👀 I’m interested in operating systems development 
+- 🌱 I’m currently learning assembly x86 and software engineering
 - 💞️ I’m looking to collaborate on something small. I am not yet an experienced developer and have been in the scene for only around 4 years.
 - 📫 How to reach me ...
 
